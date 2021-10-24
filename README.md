@@ -1,6 +1,6 @@
 # ChallengeSprint4
 
-<h1> NOME DO GRUPO: 400 Bad Request </h1>
+<h2> NOME DO GRUPO: 400 Bad Request </h2>
 
 <h1>INTEGRANTES</h1>
 86404 - GABRIEL SILVA DE SOUZA <br>
